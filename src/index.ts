@@ -1,4 +1,4 @@
-import DatabaseServices from './services/databaseServices';
+import DatabaseServices from './services/database';
 import dotenv from 'dotenv';
 
 dotenv.config()
